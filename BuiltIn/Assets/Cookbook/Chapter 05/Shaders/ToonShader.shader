@@ -34,7 +34,6 @@ Shader "CookbookShaders/Chapter 05/ToonShader"
             half NdotL = max(0, dot(s.Normal, lightDir));
             
             //NdotL = tex2D(_RampTex, fixed2(NdotL, 0.5));
-
             float cel = floor(NdotL * _CelShadingLevels) / (_CelShadingLevels - 0.5);
             
             half4 color;
