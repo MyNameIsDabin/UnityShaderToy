@@ -1,4 +1,4 @@
-Shader "Custom/BlinnPhongSpecular"
+Shader "CookbookShaders/Chapter 05/BlinnPhongSpecular"
 {
     Properties
     {
