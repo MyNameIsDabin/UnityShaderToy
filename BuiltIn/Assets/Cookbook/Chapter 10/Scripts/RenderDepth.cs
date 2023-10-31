@@ -2,14 +2,15 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Serialization;
 using UnityEngine.UI;
 
 [ExecuteInEditMode]
-public class TestRenderImage : MonoBehaviour
+public class RenderDepth : MonoBehaviour
 {
     public Shader curShader;
 
-    public float greyscaleAmount = 1.0f;
+    public float depthPower = 1.0f;
 
     private Material screenMat;
 
@@ -35,7 +36,8 @@ public class TestRenderImage : MonoBehaviour
 
     void Update()
     {
-        greyscaleAmount = Mathf.Clamp01(greyscaleAmount);
+        Camera.main.depthTextureMode = DepthTextureMode.Depth;
+        depthPower = Mathf.Clamp01(depthPower);
     }
 
     private void OnDisable()
@@ -50,7 +52,7 @@ public class TestRenderImage : MonoBehaviour
     {
         if (curShader != null)
         {
-            ScreenMat.SetFloat("_Luminosity", greyscaleAmount);
+            ScreenMat.SetFloat("_DepthPower", depthPower);
             
             Graphics.Blit(src, dest, ScreenMat);
         }
