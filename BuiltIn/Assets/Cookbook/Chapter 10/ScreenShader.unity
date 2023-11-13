@@ -231,6 +231,7 @@ GameObject:
   - component: {fileID: 577176804}
   - component: {fileID: 577176805}
   - component: {fileID: 577176806}
+  - component: {fileID: 577176807}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -341,7 +342,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 577176800}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8236e4ab280e04a4b82ca59d270a9715, type: 3}
   m_Name: 
@@ -349,6 +350,29 @@ MonoBehaviour:
   curShader: {fileID: 4800000, guid: 6194f5069845f5c4fb121d577ce59fd9, type: 3}
   blendTexture: {fileID: 2800000, guid: 61c3cbca1a57e2945bfb7724869e95eb, type: 3}
   blendOpacity: 1
+--- !u!114 &577176807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 577176800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b964f9de6933be3488ad15b0e973ee34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  curShader: {fileID: 4800000, guid: 520f71379d6cb6f489b1575d1dd4b8f4, type: 3}
+  OldFilmEffectAmount: 1
+  sepiaColor: {r: 0.7075472, g: 0.40974984, b: 0, a: 1}
+  vignetteTexture: {fileID: 2800000, guid: d6737e8caa5a3f24baba4f54de42b307, type: 3}
+  vignetteAmount: 1
+  scratchesTexture: {fileID: 2800000, guid: 927cc1cb44cbcad4a813ac9296162101, type: 3}
+  scratchesVSpeed: 10
+  scratchesXSpeed: 10
+  dustTexture: {fileID: 2800000, guid: ecf828bd71b9afb418db36da2f85ac1c, type: 3}
+  dustVSpeed: 10
+  dustXSpeed: 10
 --- !u!1 &902648305
 GameObject:
   m_ObjectHideFlags: 0
