@@ -396,7 +396,7 @@ MonoBehaviour:
   nightVisionNoise: {fileID: 2800000, guid: 8ef2f6a46bc444f45a835cf254075569, type: 3}
   noiseXSpeed: 100
   noiseYSpeed: 100
-  distortion: 0.2
+  distortion: -0.2
   scale: 0.8
 --- !u!1 &902648305
 GameObject:
