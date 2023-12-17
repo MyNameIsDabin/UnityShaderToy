@@ -129,7 +129,7 @@ Shader "Sprites/RenderTextureShader"
                 OUT.vertex = UnityPixelSnap (OUT.vertex);
                 #endif
 
-                OUT.uvgrab = ComputeScreenPos2(OUT.vertex);
+                OUT.uvgrab = ComputeScreenPos(OUT.vertex);
                 
                 return OUT;
             }
