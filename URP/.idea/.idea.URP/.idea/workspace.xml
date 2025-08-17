@@ -5,18 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="803afc54-dbc3-449c-9867-b7df93b7e819" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../BuiltIn/Assets/ShadersBibleFirstEdition/BibleFirstEdition.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BuiltIn/Assets/ShadersBibleFirstEdition/BibleFirstEdition.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BuiltIn/Assets/ShadersBibleFirstEdition/BlendMode.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BuiltIn/Assets/ShadersBibleFirstEdition/BlendMode.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BuiltIn/Assets/ShadersBibleFirstEdition/Unlit_BlendMode.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BuiltIn/Assets/ShadersBibleFirstEdition/Unlit_BlendMode.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BuiltIn/Assets/ShadersBibleFirstEdition/Unlit_USB_simple_color.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BuiltIn/Assets/ShadersBibleFirstEdition/Unlit_USB_simple_color.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BuiltIn/Assets/ShadersBibleFirstEdition/cat1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BuiltIn/Assets/ShadersBibleFirstEdition/cat1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BuiltIn/Assets/ShadersBibleFirstEdition/cat2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BuiltIn/Assets/ShadersBibleFirstEdition/cat2.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BuiltIn/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../BuiltIn/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BuiltIn/.idea/.idea.BuiltIn/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../BuiltIn/.idea/.idea.BuiltIn/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BuiltIn/.idea/.idea.BuiltIn/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BuiltIn/.idea/.idea.BuiltIn/.idea/indexLayout.xml" afterDir="false" />
@@ -77,6 +65,8 @@
       <change beforePath="$PROJECT_DIR$/../BuiltIn/Assets/RenderTexture/UpscaleSampling/PlayerFollowCamera.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../BuiltIn/Assets/RenderTexture/UpscaleSampling/PlayerFollowCamera.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BuiltIn/Assets/RenderTexture/UpscaleSampling/RenderTextureShader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/../BuiltIn/Assets/RenderTexture/UpscaleSampling/RenderTextureShader.shader" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BuiltIn/Assets/RenderTexture/UpscaleSampling/Upscale Sampling.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../BuiltIn/Assets/RenderTexture/UpscaleSampling/Upscale Sampling.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuiltIn/Assets/ShadersBibleFirstEdition/BlendMode.shader" beforeDir="false" afterPath="$PROJECT_DIR$/../BuiltIn/Assets/ShadersBibleFirstEdition/BlendMode.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuiltIn/Assets/ShadersBibleFirstEdition/USB_simple_color.shader" beforeDir="false" afterPath="$PROJECT_DIR$/../BuiltIn/Assets/ShadersBibleFirstEdition/USB_simple_color.shader" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BuiltIn/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BuiltIn/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BuiltIn/Assets/TextMesh Pro/Sprites/EmojiOne.json" beforeDir="false" afterPath="$PROJECT_DIR$/../BuiltIn/Assets/TextMesh Pro/Sprites/EmojiOne.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BuiltIn/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../BuiltIn/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
@@ -95,72 +85,31 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.URP/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.URP/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.URP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.URP/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.URP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.URP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Card/CardFoilMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Card/CardFoilMat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Artwork/UV/Materials/fx_m_arrow_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artwork/UV/Materials/fx_m_arrow_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Artwork/UV/Materials/fx_m_arrow_01.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artwork/UV/Materials/fx_m_arrow_01.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Artwork/UV/Materials/fx_m_glow_01.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artwork/UV/Materials/fx_m_glow_01.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Artwork/UV/Materials/fx_m_glow_02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artwork/UV/Materials/fx_m_glow_02.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Artwork/UV/Materials/fx_m_glow_02.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artwork/UV/Materials/fx_m_glow_02.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Artwork/UV/Materials/fx_m_line_01.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artwork/UV/Materials/fx_m_line_01.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Artwork/UV/Meshs/UV_sample/fx_v_uv_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artwork/UV/Meshs/UV_sample/fx_v_uv_01.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Artwork/UV/Meshs/UV_sample/fx_v_uv_03.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artwork/UV/Meshs/UV_sample/fx_v_uv_03.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Artwork/UV/Meshs/UV_sample/fx_v_uv_04.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artwork/UV/Meshs/UV_sample/fx_v_uv_04.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Artwork/UV/Meshs/UV_sample/fx_v_uv_05.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artwork/UV/Meshs/UV_sample/fx_v_uv_05.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Artwork/UV/Meshs/UV_sample/fx_v_uv_06.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artwork/UV/Meshs/UV_sample/fx_v_uv_06.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Artwork/UV/Textures/fx_t_arrow_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artwork/UV/Textures/fx_t_arrow_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Artwork/UV/Textures/fx_t_glow_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artwork/UV/Textures/fx_t_glow_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Artwork/UV/Textures/fx_t_glow_02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artwork/UV/Textures/fx_t_glow_02.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Artwork/UV/Textures/fx_t_line_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Artwork/UV/Textures/fx_t_line_01.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Card/CardFrame.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Card/CardFrame.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Card/CardHolographicMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Card/CardHolographicMat.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Card/CustomRenderPassFeature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Card/CustomRenderPassFeature.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Card/Holographic.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Card/Holographic.shadergraph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Card/YoGiOh.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Card/YoGiOh.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter 13/Shaders/ExposePropertyMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter 13/Shaders/ExposePropertyMat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter 13/Shaders/SimpleGraphMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter 13/Shaders/SimpleGraphMat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter 13/Shaders/SpriteOutlineMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter 13/Shaders/SpriteOutlineMat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/ConstructionLight_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/ConstructionLight_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/DryWallPainted_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/DryWallPainted_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/DryWall_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/DryWall_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Ground_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Ground_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Hammer_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Hammer_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/HardHat_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/HardHat_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Jigsaw_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Jigsaw_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/LightBulb_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/LightBulb_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Liquid_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Liquid_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Metal_Blue_Simple_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Metal_Blue_Simple_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Metal_Simple_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Metal_Simple_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/OBS_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/OBS_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Paint1G_WAnim_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Paint1G_WAnim_Material.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/PaintBrush_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/PaintBrush_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/PaintLabel_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/PaintLabel_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Black_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Black_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Gray_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Gray_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Ridges_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Ridges_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Rough_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Rough_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Transparent.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Transparent.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_White_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_White_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Yellow_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Yellow_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Strap_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Strap_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Stud_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Stud_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Particles/Fire/FireBall_Add.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/Fire/FireBall_Add.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Particles/Fire/FireBall_Blend.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/Fire/FireBall_Blend.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Particles/Fire/WispySmoke_Add.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/Fire/WispySmoke_Add.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Particles/Fire/WispySmoke_Blend.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/Fire/WispySmoke_Blend.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Particles/IngageExplosion/Flare_01_Add.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/IngageExplosion/Flare_01_Add.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Particles/IngageExplosion/Flare_02_Add.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/IngageExplosion/Flare_02_Add.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Particles/Particles/Floor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/Particles/Floor.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Particles/Rain/Ring_Add.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/Rain/Ring_Add.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Particles/Rain/SimpleGlow_02_Add.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/Rain/SimpleGlow_02_Add.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Particles/Rain/SimpleGlow_Add.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/Rain/SimpleGlow_Add.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Particles/Rain/SimpleGlow_Blend.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/Rain/SimpleGlow_Blend.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Particles/Shield/FlareMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/Shield/FlareMaterial.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Particles/Shield/ShieldMatrial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/Shield/ShieldMatrial.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Particles/Sword/Dissolve_Add.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/Sword/Dissolve_Add.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Particles/Sword/Dissolve_Blend.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/Sword/Dissolve_Blend.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Particles/mode/Materials/01 - Default.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/mode/Materials/01 - Default.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Particles/mode/Materials/06 - Default.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/mode/Materials/06 - Default.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Particles/mode/Materials/08 - Default.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/mode/Materials/08 - Default.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Particles/mode/Materials/No Name.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/mode/Materials/No Name.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Particles/mode/Materials/shangyi.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles/mode/Materials/shangyi.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Outline/OutlineFill_Step1.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Outline/OutlineFill_Step1.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Outline/OutlineFill_Step2.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Outline/OutlineFill_Step2.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Outline/OutlineMask.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Outline/OutlineMask.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Outline/SimpleOutline.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Outline/SimpleOutline.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/URP-Balanced.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/URP-Balanced.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/URP-HighFidelity-Renderer.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/URP-HighFidelity-Renderer.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/URP-HighFidelity.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/URP-HighFidelity.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/URP-Performant.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/URP-Performant.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/boot.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shader/S_MasterShader_01.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shader/S_MasterShader_01.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shader/S_MasterShader_01.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shader/S_MasterShader_01.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shader/_Texture/Mask&amp;Symbol/Tx_White.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shader/_Texture/Mask&amp;Symbol/Tx_White.png.meta" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,7 +204,7 @@
       <workItem from="1717416326799" duration="7038000" />
       <workItem from="1731514893888" duration="2000" />
       <workItem from="1749216262438" duration="8633000" />
-      <workItem from="1754824039301" duration="476000" />
+      <workItem from="1754824039301" duration="1522000" />
     </task>
     <servers />
   </component>
