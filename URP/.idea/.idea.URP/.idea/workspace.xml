@@ -106,6 +106,17 @@
       <change beforePath="$PROJECT_DIR$/Assets/Outline/OutlineFill_Step2.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Outline/OutlineFill_Step2.shader" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Outline/OutlineMask.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Outline/OutlineMask.shader" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Outline/SimpleOutline.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Outline/SimpleOutline.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Particles2/FireExplosionTexture.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles2/FireExplosionTexture.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Particles2/FireExplosionTexture.psd.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles2/FireExplosionTexture.psd.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Particles2/Materials/fx_m_line_03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles2/Materials/fx_m_line_03.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Particles2/Materials/fx_m_peaks_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles2/Materials/fx_m_peaks_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Particles2/Particle.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles2/Particle.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Particles2/Shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles2/Shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Particles2/Shader/CustomParticleShader.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles2/Shader/CustomParticleShader.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Particles2/Shader/CustomParticleShader.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles2/Shader/CustomParticleShader.shadergraph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Particles2/Shader/CustomParticleShader.shadergraph.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles2/Shader/CustomParticleShader.shadergraph.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Particles2/Textures/fx_t_grow_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles2/Textures/fx_t_grow_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Particles2/Textures/fx_t_wave_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Particles2/Textures/fx_t_wave_01.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Shader/S_MasterShader_01.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shader/S_MasterShader_01.shader" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Shader/S_MasterShader_01.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shader/S_MasterShader_01.shader.meta" afterDir="false" />
@@ -205,6 +216,8 @@
       <workItem from="1731514893888" duration="2000" />
       <workItem from="1749216262438" duration="8633000" />
       <workItem from="1754824039301" duration="1522000" />
+      <workItem from="1757231663644" duration="965000" />
+      <workItem from="1757668143875" duration="3851000" />
     </task>
     <servers />
   </component>
